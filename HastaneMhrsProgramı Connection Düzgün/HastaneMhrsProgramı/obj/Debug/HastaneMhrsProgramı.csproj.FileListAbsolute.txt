@@ -1,0 +1,44 @@
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.exe.config
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.exe
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.pdb
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.AssemblyReference.cache
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.Properties.Resources.resources
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.GenerateResource.cache
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.CoreCompileInputs.cache
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.exe
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.pdb
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmBase.resources
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmHekim.resources
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmKayıt.resources
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.frmRandevuSorgu.resources
+Z:\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.frmPoliklinikEkle.resources
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.exe.config
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.exe
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.pdb
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmBase.resources
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmHekim.resources
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmKayıt.resources
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.frmPoliklinikEkle.resources
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.frmRandevuSorgu.resources
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.exe
+C:\Users\user\OneDrive\Masaüstü\HastaneMhrsProgramı\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.pdb
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.exe.config
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.exe
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\bin\Debug\HastaneMhrsProgramı.pdb
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmBase.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmHekim.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.FrmKayıt.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.frmPoliklinikEkle.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.frmRandevuSorgu.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.exe
+C:\Users\user\OneDrive\Masaüstü\Vs Örnekler\HastaneMhrsProgramı Connection Düzgün\HastaneMhrsProgramı\obj\Debug\HastaneMhrsProgramı.pdb
